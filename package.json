@@ -1,0 +1,24 @@
+{
+  "name": "looka-web-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "files.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "module": "^1.2.5",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.4.4",
+    "morgan": "^1.10.0"
+  }
+}
